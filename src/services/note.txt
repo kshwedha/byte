@@ -1,0 +1,5 @@
+here you can create your microservices in each folder
+ex: microservice_1
+microservice_2
+
+every microservice should have config file for host port and db and etc..,
